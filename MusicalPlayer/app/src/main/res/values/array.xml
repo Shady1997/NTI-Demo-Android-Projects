@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="songer">
+        <item>Abdel Halim</item>
+        <item>Om Kolthom</item>
+    </array>
+
+    <array name="song">
+        <item>Abdel Halim-Song 1</item>
+        <item>Om Kolthom-Song 1</item>
+    </array>
+
+</resources>
